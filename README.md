@@ -1,2 +1,2 @@
-# blox-cv-theme
+# Blox CV Theme
 A tronic-resume theme

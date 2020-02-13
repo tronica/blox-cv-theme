@@ -4,7 +4,7 @@
   "description": "A resume theme",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "parcel serve test/index.html"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
     "handlebars": "^4.5.3",
     "i": "^0.3.6",
     "npm": "^6.13.7",
+    "parcel-bundler": "^1.12.4",
     "tailwindcss": "^1.1.4",
     "templates": "^1.2.9"
   }
